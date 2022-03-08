@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学习01</string>
+    <string name="textView">你好 世界！</string>
+    <string name="button1">左边</string>
+    <string name="button2">右边</string>
+    <string name="switch1">开/关</string>
+    <string name="editText_hint">请输入一个数字。</string>
+    <string name="button3">确定</string>
+    <string name="radioButton1">顶</string>
+    <string name="radioButton2">底</string>
+    <string name="ratingBar">星星</string>
+    <string name="on">开</string>
+    <string name="off">关</string>
+    <string name="ycs1">你选择了</string>
+    <string name="ycs2">个星星。</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Learning01</string>
+    <string name="textView">Hello World!</string>
+    <string name="button1">Left</string>
+    <string name="button2">Right</string>
+    <string name="switch1">On/Off</string>
+    <string name="editText_hint">Please enter a number.</string>
+    <string name="button3">OK</string>
+    <string name="radioButton1">Top</string>
+    <string name="radioButton2">Bottom</string>
+    <string name="checkBox1" translatable="false">A</string>
+    <string name="checkBox2" translatable="false">B</string>
+    <string name="checkBox3" translatable="false">C</string>
+    <string name="ratingBar">Stars</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="ycs1">You chose</string>
+    <string name="ycs2">stras.</string>
+</resources>
