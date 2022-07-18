@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learning08_SharedPreferences</string>
+    <string name="my_data">My_Data</string>
+    <string name="my_key">My_Key</string>
+</resources>

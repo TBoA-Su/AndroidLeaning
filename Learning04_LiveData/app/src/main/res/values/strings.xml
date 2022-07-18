@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learning04_LiveData</string>
+    <string name="imageButton1">1</string>
+    <string name="imageButton2">2</string>
+</resources>

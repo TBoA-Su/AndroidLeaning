@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Learning05_DataBinding</string>
+    <string name="button">add</string>
+</resources>

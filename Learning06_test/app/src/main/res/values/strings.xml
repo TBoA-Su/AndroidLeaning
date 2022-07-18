@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Learning06_test</string>
+    <string name="add1" translatable="false">+1</string>
+    <string name="add2" translatable="false">+2</string>
+    <string name="add3" translatable="false">+3</string>
+    <string name="imangButton1">redo</string>
+    <string name="imageButton2">restart</string>
+    <string name="teama">Team A</string>
+    <string name="teamb">Team B</string>
+</resources>

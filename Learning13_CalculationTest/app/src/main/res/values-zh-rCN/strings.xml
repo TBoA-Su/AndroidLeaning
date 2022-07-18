@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学习13_计算测试</string>
+    <string name="title_message">计算测试</string>
+    <string name="title_button_message">进入</string>
+    <string name="high_score_message">最高分%d</string>
+    <string name="current_score">分数:%d</string>
+    <string name="input_indicator">你的答案：</string>
+    <string name="win_image_message">赢的图片</string>
+    <string name="lose_image_message">输的图片</string>
+    <string name="lose_message">你输了!</string>
+    <string name="win_message">你赢了!</string>
+    <string name="lose_score_message">你的分数:%d</string>
+    <string name="win_score_message">新记录:%d</string>
+    <string name="button_back_to_title">返回</string>
+    <string name="answer_current_message">正确! 继续!</string>
+    <string name="answer">回答问题!</string>
+    <string name="quit_dialog_title">你确定要退出?</string>
+    <string name="dialog_postive_messgae">确定</string>
+    <string name="dialog_negative_message">取消</string>
+    <string name="answer_hint">请回答问题!</string>
+</resources>

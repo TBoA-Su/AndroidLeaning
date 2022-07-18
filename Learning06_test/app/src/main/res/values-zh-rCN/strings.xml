@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学习06_测试</string>
+    <string name="imangButton1">撤销</string>
+    <string name="imageButton2">重新开始</string>
+    <string name="teama">队伍A</string>
+    <string name="teamb">队伍B</string>
+</resources>
